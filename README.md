@@ -13,7 +13,8 @@ Este projeto é de uma calculadora simples que está na trilha de programação 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kivy](https://img.shields.io/badge/kivy-green?style=for-the-badge&logo=kivy&logoColor=white)
 
-
+## Exemplo do Funcionamento
+![Cauculadora em Funcionamento](https://github.com/guispm/Calculadora-Kivy-/blob/main/calculadora.png)
 ## ✒️ Autor
 
 
